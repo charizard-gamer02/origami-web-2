@@ -1,0 +1,18 @@
+h1{
+    color: tomato
+}
+.header{
+    background-color: orange  ;
+display:flex ;
+justify-content : space-between;
+}
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: 
+    space-between;
+}
+.body{
+    border: dashed;
+    background-color: red;
+}
